@@ -1,0 +1,9 @@
+mapreduce_mean
+152.7206871868289
+numpy mean
+152.7206871868289
+
+mapreduce_variance
+57672.84569843365
+numpy_variance
+57672.84569843345
